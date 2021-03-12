@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joshua Kimrey"
   avatar           : "head_git.jpg"
-  bio              : "I am a Graduate Research Assistant in applied mathematics with expertise in locating and computing low-dimensional organizing structures of multiscale dynamical systems. I am passioante about developing and applying computational solutions to scientific and real-world problems."
+  bio              : "I am a Graduate Research Assistant in applied mathematics with expertise in locating and computing low-dimensional organizing structures of multiscale dynamical systems. I am passionate about developing and applying computational solutions to scientific and real-world problems."
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jtk09"
+  github           : "jtk09"
   google_plus      :
   keybase          :
   instagram        :
