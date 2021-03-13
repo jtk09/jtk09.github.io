@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joshua Kimrey"
   avatar           : "head_git.jpg"
-  bio              : "I am a Graduate Research Assistant in applied mathematics with expertise in locating and computing low-dimensional organizing structures of multiscale dynamical systems. I am passionate about developing and applying computational solutions to scientific and real-world problems."
+  bio              : "I am a Graduate Research Assistant in Applied Mathematics at Florida State University with expertise in locating and computing low-dimensional organizing structures of multiscale dynamical systems. I am passionate about developing and applying computational solutions to scientific and real-world problems."
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/joshua-kimrey-b761a189/"
+  linkedin         : "in/joshua-kimrey-b761a189/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
