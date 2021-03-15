@@ -22,12 +22,18 @@ Applied dynamical systems, geometric singular perturbation analysis, numerical c
 Work experience
 ======
 Florida State University Deaprtment of Mathematics
-* Graduate Research Assistant                                                                                                                Spring 2018 - present
+* Graduate Research Assistant [Spring 2018 - present]{style="float:right"}
+
   •Utilized pure and applied mathematical tools for model reduction and analysis of dynamical systems
+  
   •Uncovered novel and more informative low-dimensional geometric mechanisms for complex solution behavior
+  
   •Extended state-of-the-art numerical procedures for the computation of difficult-to-compute invariant geometries
+  
   •Validated novel mathematical and computational approaches against experimental data
+  
   •Presented results in two invited talks at international academic/industry conferences
+  
   •Published results in two (third in preparation) peer-reviewed scholarly journal articles as lead author
 
 * Graduate Instructor of Record                                                                                                Spring 2017, Fall 2018, Spring 2019
