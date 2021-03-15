@@ -21,8 +21,8 @@ Applied dynamical systems, geometric singular perturbation analysis, numerical c
 
 Work experience
 ======
-Florida State University Deaprtment of Mathematics
-* Graduate Research Assistant                                                                                                                Spring 2018 - present
+**Florida State University Deaprtment of Mathematics**
+* ***Graduate Research Assistant***: Spring 2018 - present
 <br>
   •Utilized pure and applied mathematical tools for model reduction and analysis of dynamical systems <br>
   •Uncovered novel and more informative low-dimensional geometric mechanisms for complex solution behavior <br>
@@ -31,20 +31,20 @@ Florida State University Deaprtment of Mathematics
   •Presented results in two invited talks at international academic/industry conferences <br>
   •Published results in two (third in preparation) peer-reviewed scholarly journal articles as lead author
 
-* Graduate Instructor of Record                                                                                                Spring 2017, Fall 2018, Spring 2019
-  •Lectured≈30 students in Pre-Calculus and Calculus II courses as solo instructor of record
-  •Designed, administered, and graded all course materials including in-class assignments, homework, and exams
-  •Implemented research-supported learner-centered approaches to learning: students engage with material beforeclass, in-class collaborative problem-solving
+* ***Graduate Instructor of Record***: Spring 2017, Fall 2018, Spring 2019 <br>
+  •Lectured≈30 students in Pre-Calculus and Calculus II courses as solo instructor of record <br>
+  •Designed, administered, and graded all course materials including in-class assignments, homework, and exams <br>
+  •Implemented research-supported learner-centered approaches to learning: students engage with material beforeclass, in-class collaborative problem-solving <br>
   •Advised students on learning strategies, future coursework, and potential career paths
 
-* Graduate Teaching Assistant                                                                                                             August 2015 - April 2019
- •Assisted course instructors in the administration of various undergraduate courses: Liberal Arts Math, College Algebra, Practical Finite Math, Trigonometry,       Pre-Calculus, Business Calculus, Calculus I, and Calculus II
+* ***Graduate Teaching Assistant***: August 2015 - April 2019 <br>
+ •Assisted course instructors in the administration of various undergraduate courses: Liberal Arts Math, College Algebra, Practical Finite Math, Trigonometry,       Pre-Calculus, Business Calculus, Calculus I, and Calculus II <br>
  •Facilitated weekly pre-quiz study hall
  
-Florida State University Athletics Department
-* Graduate Assistant Strength Coach                                                                                                            May 2014 - May 2015
-  •Devised, administered, and tracked specialized physical development programs for all sports as Head StrengthCoach at John Paul II Catholic High School (JPII)
-  •Expanded the scope of the strength and conditioning program at JPII beyond the initial assignment of Football,Men’s Basketball, and Baseball to include            scheduled seasonal regimens for Women’s Softball, Women’s Volleyball, Women’s Basketball, Track and Field, Cross Country, and Men’s and Women’s Soccer
+**Florida State University Athletics Department**
+* ***Graduate Assistant Strength Coach***: May 2014 - May 2015 <br>
+  •Devised, administered, and tracked specialized physical development programs for all sports as Head StrengthCoach at John Paul II Catholic High School (JPII) <br>
+  •Expanded the scope of the strength and conditioning program at JPII beyond the initial assignment of Football,Men’s Basketball, and Baseball to include            scheduled seasonal regimens for Women’s Softball, Women’s Volleyball, Women’s Basketball, Track and Field, Cross Country, and Men’s and Women’s Soccer <br>
   •Devised, administered, and tracked tailored physical development programs for 10 recurring clients with variousages, abilities, and contraindications as Head      Coach of FSU Athletics’ sponsored Adult Fitness program
   
 Skills
