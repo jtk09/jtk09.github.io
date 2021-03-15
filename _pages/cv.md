@@ -44,8 +44,8 @@ Work experience
 **Florida State University Athletics Department**
 * ***Graduate Assistant Strength Coach***: May 2014 - May 2015 <br>
   •Devised, administered, and tracked specialized physical development programs for all sports as Head StrengthCoach at John Paul II Catholic High School (JPII) <br>
-  •Expanded the scope of the strength and conditioning program at JPII beyond the initial assignment of Football,Men’s Basketball, and Baseball to include            scheduled seasonal regimens for Women’s Softball, Women’s Volleyball, Women’s Basketball, Track and Field, Cross Country, and Men’s and Women’s Soccer <br>
-  •Devised, administered, and tracked tailored physical development programs for 10 recurring clients with variousages, abilities, and contraindications as Head      Coach of FSU Athletics’ sponsored Adult Fitness program
+  •Expanded the scope of the strength and conditioning program at JPII beyond the initial assignment of Football, Men’s Basketball, and Baseball to include            scheduled seasonal regimens for Women’s Softball, Women’s Volleyball, Women’s Basketball, Track and Field, Cross Country, and Men’s and Women’s Soccer <br>
+  •Devised, administered, and tracked individualized physical development programs for ~10 recurring clients with various ages, abilities, and contraindications as Head Coach of FSU Athletics' Adult Fitness program
   
 Skills
 ======
