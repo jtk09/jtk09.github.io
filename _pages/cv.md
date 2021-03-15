@@ -11,29 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Political Science, Florida State University, 2013
+* M.S. in Sports Science, Florida State University, 2015
+* Ph.D in Mathematics, Florida State University, 2021 (expected)
+
+Research Interests
+======
+Applied dynamical systems, geometric singular perturbation analysis, numerical computation of invariant manifolds, data science/machine learning and dynamical systems
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Florida State University Deaprtment of Mathematics
+* Graduate Research Assistant                                                                                                                Spring 2018 - present
+  •Utilized pure and applied mathematical tools for model reduction and analysis of dynamical systems
+  •Uncovered novel and more informative low-dimensional geometric mechanisms for complex solution behavior
+  •Extended state-of-the-art numerical procedures for the computation of difficult-to-compute invariant geometries
+  •Validated novel mathematical and computational approaches against experimental data
+  •Presented results in two invited talks at international academic/industry conferences
+  •Published results in two (third in preparation) peer-reviewed scholarly journal articles as lead author
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Instructor of Record                                                                                                Spring 2017, Fall 2018, Spring 2019
+  •Lectured≈30 students in Pre-Calculus and Calculus II courses as solo instructor of record
+  •Designed, administered, and graded all course materials including in-class assignments, homework, and exams
+  •Implemented research-supported learner-centered approaches to learning: students engage with material beforeclass, in-class collaborative problem-solving
+  •Advised students on learning strategies, future coursework, and potential career paths
+
+* Graduate Teaching Assistant                                                                                                             August 2015 - April 2019
+ •Assisted course instructors in the administration of various undergraduate courses: Liberal Arts Math, College Algebra, Practical Finite Math, Trigonometry,       Pre-Calculus, Business Calculus, Calculus I, and Calculus II
+ •Facilitated weekly pre-quiz study hall
+ 
+Florida State University Athletics Department
+* Graduate Assistant Strength Coach                                                                                                            May 2014 - May 2015
+  •Devised, administered, and tracked specialized physical development programs for all sports as Head StrengthCoach at John Paul II Catholic High School (JPII)
+  •Expanded the scope of the strength and conditioning program at JPII beyond the initial assignment of Football,Men’s Basketball, and Baseball to include            scheduled seasonal regimens for Women’s Softball, Women’s Volleyball, Women’s Basketball, Track and Field, Cross Country, and Men’s and Women’s Soccer
+  •Devised, administered, and tracked tailored physical development programs for 10 recurring clients with variousages, abilities, and contraindications as Head      Coach of FSU Athletics’ sponsored Adult Fitness program
   
 Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
