@@ -52,7 +52,8 @@ Skills and Interests
 **Skills:** Software _Proficient_: Mathematica,  AUTO,  LaTeX,  Python,  Matlab,  R,  Libre/Microsoft  Office  Suite,Inkscape (Photoshop) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Competent_: C, Fortran, Julia, Linux, Github, XML, HTML <br>
 <br>       
-**Interests:** Data Science (completed 3 Johns Hopkins University Data Science courses via Coursera - 1. Data Scientist’sToolbox, 2. R Programming, 3. Getting and Cleaning Data) <br>
+**Interests:** Data Science (completed 3 Johns Hopkins University Data Science courses via Coursera - 1. Data Scientist’sToolbox, 2. R 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programming, 3. Getting and Cleaning Data) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certified Strength and Conditioning Specialist (2013 - 2015) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Best Guitar Player in Fort Walton Beach, Florida (2009)
 
