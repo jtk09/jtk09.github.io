@@ -49,12 +49,12 @@ Work experience
   
 Skills and Interests
 ======
-**Skills:** Software Proficient: Mathematica,  AUTO,  LaTeX,  Python,  Matlab,  R,  Libre/Microsoft  Office  Suite,Inkscape (Photoshop)
-                     Competent: C, Fortran, Julia, Linux, Github, XML, HTML
-       
+**Skills:** Software Proficient: Mathematica,  AUTO,  LaTeX,  Python,  Matlab,  R,  Libre/Microsoft  Office  Suite,Inkscape (Photoshop) <br>
+|                    Competent: C, Fortran, Julia, Linux, Github, XML, HTML <br>
+<br>       
 **Interests:** Data Science (completed 3 Johns Hopkins University Data Science courses via Coursera - 1) Data Scientist’sToolbox, 2) R Programming, 3) Getting and Cleaning Data)
-               Certified Strength and Conditioning Specialist (2013 - 2015)
-               Best Guitar Player in Fort Walton Beach, Florida (2009)
+|              Certified Strength and Conditioning Specialist (2013 - 2015)
+|              Best Guitar Player in Fort Walton Beach, Florida (2009)
 
 Publications
 ======
