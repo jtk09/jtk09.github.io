@@ -6,9 +6,7 @@ excerpt: 'Early afterdepolarizations (EADs) are pathological voltage fluctuation
 date: 2020-07-22
 venue: 'SIAM Journal on Applied Dynamical Systems'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/19M1300777'
-citation: '**Kimrey J**, Vo T, Bertram R. “Big ducks in the heart: canard analysis can explain large early afterdepolarizationsin cardiomyocytes”.SIAM J Appl Dyn Syst. 2020; 19(3):1701–1735.'
+citation: 'Kimrey J, Vo T, Bertram R. “Big ducks in the heart: canard analysis can explain large early afterdepolarizationsin cardiomyocytes”.SIAM J Appl Dyn Syst. 2020; 19(3):1701–1735.'
 ---
 
 [Download paper here](https://doi.org/10.1137/19M1300777)
-
-Recommended citation: Kimrey J, Vo T, Bertram R. “Big ducks in the heart: canard analysis can explain large early afterdepolarizationsin cardiomyocytes”.SIAM J Appl Dyn Syst.2020;19(3):1701–1735.
