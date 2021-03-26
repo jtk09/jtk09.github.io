@@ -6,7 +6,7 @@ excerpt: 'The pumping of blood through the heart is due to a wave of muscle cont
 date: 2010-10-01
 venue: 'PLoS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008341'
-citation: 'Kimrey J, Vo T, Bertram R (2020) Canard analysis reveals why a large Ca2+ window current promotes early afterdepolarizations in cardiac myocytes. PLoS Comput Biol 16(11): e1008341.'
+citation: 'Kimrey J, Vo T, Bertram R (2020) Canard analysis reveals why a large Ca<sup>2+</sup> window current promotes early afterdepolarizations in cardiac myocytes. PLoS Comput Biol 16(11): e1008341.'
 ---
 
 [Download paper here](https://doi.org/10.1371/journal.pcbi.1008341)
